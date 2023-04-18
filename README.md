@@ -9,7 +9,7 @@
 # Geo Quiz
 ## A quiz based in the model Better Quiz
 
-Geo Quiz is a quiz for those who have interest in learning more about the world. In this quiz, you will see flags, maps etc. about more than 200 countries.
+The quiz app made in React.js and Typescript is an excellent resource for those who want to learn more about the countries of the world. The app offers a wide range of quizzes that cover various topics related to different countries, including geography, history, culture, and more. Whether you are a student, a teacher, or just someone who loves learning, this app is a great way to expand your knowledge of the world and its many diverse cultures.
 
 ## Live Demo
 
