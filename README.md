@@ -1,12 +1,3 @@
-# Geo Quiz
-## A quiz based in the model Better Quiz
-
----
-
-Geo Quiz is a quiz for those who have interest in learning more about the world. In this quiz, you will see flags, maps etc. about more than 200 countries.
-
----
-
 ![badge](https://img.shields.io/github/watchers/wdpedroborges/geo-quiz?style=social)
 ![badge](https://img.shields.io/github/stars/wdpedroborges/geo-quiz?style=social)
 ![badge](https://img.shields.io/github/license/wdpedroborges/geo-quiz)
@@ -15,11 +6,14 @@ Geo Quiz is a quiz for those who have interest in learning more about the world.
 ![badge](https://img.shields.io/badge/powered%20by-typescript-blue)
 ![badge](https://img.shields.io/badge/powered%20by-sass.js-blue)
 
----
+# Geo Quiz
+## A quiz based in the model Better Quiz
+
+Geo Quiz is a quiz for those who have interest in learning more about the world. In this quiz, you will see flags, maps etc. about more than 200 countries.
 
 ## Live Demo
 
-[Click here to see it]((wdpedroborges.github.io/geo-quiz))
+wdpedroborges.github.io/geo-quiz
 
 ## Features
 
